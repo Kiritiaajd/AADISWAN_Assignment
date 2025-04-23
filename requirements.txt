@@ -1,0 +1,10 @@
+streamlit                 # For building the web application
+transformers               # For working with transformer models (GPT, etc.)
+torch                     # PyTorch for model training and inference
+pandas                    # For data manipulation
+numpy                     # For numerical operations
+scikit-learn              # For machine learning (optional)
+matplotlib                # For plotting/visualizations (optional)
+seaborn                   # For advanced visualizations (optional)
+requests                  # If you're using HTTP requests (optional)
+python-dotenv             # To load environment variables from .env file (optional)
